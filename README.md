@@ -10,9 +10,6 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ## Procedure
 
 Step1:
-
-<br/>
-
 Step2:
 
 <br/>
